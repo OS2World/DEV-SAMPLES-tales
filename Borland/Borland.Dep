@@ -1,0 +1,12 @@
+.\stale.obj: \
+    ..\Source\stale.cpp \
+    Borland.mak
+
+.\dtale.obj: \
+    ..\Source\dtale.cpp \
+    Borland.mak
+
+.\taledll.obj: \
+    ..\Source\taledll.cxx \
+    Borland.mak
+

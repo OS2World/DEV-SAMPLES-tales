@@ -1,0 +1,8 @@
+system os2v2 dll initinstance terminstance
+option manyautodata
+option st=65536
+option c 
+option maxe=25 
+option q
+name tale
+file taledll.obj

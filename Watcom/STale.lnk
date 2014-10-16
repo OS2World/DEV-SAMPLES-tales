@@ -1,0 +1,8 @@
+system os2v2 pmc 
+option m 
+option st=65536
+option c 
+option maxe=25 
+option q
+name STale.exe 
+fil STale.obj

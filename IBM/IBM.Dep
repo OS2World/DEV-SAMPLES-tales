@@ -1,0 +1,12 @@
+.\Stale.obj: \
+    ..\Source\Stale.cpp \
+    IBM.mak
+
+.\Dtale.obj: \
+    ..\Source\Dtale.cpp \
+    IBM.mak
+
+.\taledll.obj: \
+    ..\Source\taledll.cxx \
+    IBM.mak
+
